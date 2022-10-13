@@ -5,6 +5,8 @@ echo "sec parametr is $2"
 echo "hello world"
 echo "name"
 echo "calender"
+echo " my first script "
+
 
 
 

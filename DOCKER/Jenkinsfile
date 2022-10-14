@@ -8,8 +8,13 @@ pipeline {
                                   }  
                        stage ("depoly1") {
                         steps {
-                        echo "THIS IS FOR STAGE TWO new line "
+                        echo "THIS IS FOR STAGE TWO new line"
                               }
-                                         }                        
+                                         }                   
+                        stage (devolop){
+                        steps {
+                        echo " this is my third "
+                              }  
+                                       }     
                  }  
 }

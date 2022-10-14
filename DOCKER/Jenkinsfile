@@ -6,5 +6,10 @@ pipeline {
                          echo "this is from git poll scm " 
                               } 
                                   }  
+                       stage ("depoly1") {
+                        steps {
+                        echo "THIS IS FOR STAGE TWO"
+                              }
+                                         }                        
                  }  
 }

@@ -8,6 +8,6 @@ echo "calender"
 echo " my first script "
 echo " pipe line"
 Author :ratna
-echo " my name is $author "
+echo " my name is $Author "
 
 

@@ -13,7 +13,8 @@ pipeline {
                                          }                   
                         stage (devolop){
                         steps {
-                        echo " this is my third "
+                        echo "hello  this is my third "
+
                               }  
                                        }     
                  }  

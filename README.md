@@ -12,3 +12,4 @@ echo " my name is $author "
 
 
 hello
+echo "this is rathna"

@@ -2,5 +2,6 @@
 for myvar in {1,2,3,4,5}
 do
 echo "loop in $myvar"
+echo "hello world"
 done
 

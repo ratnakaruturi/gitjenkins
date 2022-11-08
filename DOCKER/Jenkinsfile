@@ -1,0 +1,21 @@
+pipeline {
+         agent any
+         stages {
+                stage ("build1") {
+                         steps {
+                         echo "this is from git poll scm " 
+                              } 
+                                  }  
+                       stage ("depoly1") {
+                        steps {
+                        echo "THIS IS FOR STAGE TWO new line"
+                              }
+                                         }                   
+                        stage (devolop){
+                        steps {
+                        echo "hello  this is my third "
+
+                              }  
+                                       }     
+                 }  
+}

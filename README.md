@@ -8,6 +8,10 @@ echo "calender"
 echo " my first script "
 echo " pipe line"
 Author :ratna
+
+echo " my name is $author "
+
+
 echo " my name is $Author "
 echo "hello webhook"
 echo "web hook"
@@ -15,3 +19,6 @@ echo "web hook done"
 echo "git"
 echo "helo"
 
+
+hello
+echo "this is rathna"
